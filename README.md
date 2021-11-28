@@ -1,2 +1,15 @@
-# Web Development
-Handwritten notes of HTML, CSS and JavaScript.
+# Handwritten Notes
+## 1. Web Development
+#### 1. HTML
+#### 2. CSS
+#### 3. JavaScript
+
+## 2. Machine Learning
+
+## 3. Java
+
+## 4. Python
+
+## 5. MySQL
+
+## 6. Data Structures and Algorithms
