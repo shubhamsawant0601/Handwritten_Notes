@@ -13,3 +13,5 @@
 ## 5. MySQL
 
 ## 6. Data Structures and Algorithms
+
+## 7. Aptitude
