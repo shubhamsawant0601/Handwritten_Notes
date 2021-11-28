@@ -1,2 +1,2 @@
-# Web_Development-
-Handwritten notes of HTML, CSS and JavaScript
+# Web Development
+Handwritten notes of HTML, CSS and JavaScript.
